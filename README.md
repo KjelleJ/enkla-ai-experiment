@@ -6,4 +6,7 @@ Klicka på önskat experiment. JNBn öppnas då i Colab. I Colab välj sedan **A
 
 Nästa gång du vill köra samma experimentet går du direkt till kopian på Colab.
 
-[**1) Machine learning**](https://colab.research.google.com/github/KjelleJ/enkla-ai-experiment/blob/main/mnist_simple.ipynb)
+[**1) Jupyter Notebook mm**](https://colab.research.google.com/github/KjelleJ/enkla-ai-experiment/blob/main/mnist_simple.ipynb)
+
+[**2) Machine learning**](https://colab.research.google.com/github/KjelleJ/enkla-ai-experiment/blob/main/mnist_simple.ipynb)
+
